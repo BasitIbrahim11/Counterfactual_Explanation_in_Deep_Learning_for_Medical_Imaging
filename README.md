@@ -5,19 +5,19 @@ This project implements and evaluates faithful counterfactual visual explanation
 # 📁 **Project Pipeline**
 **1. Medical Dataset Preparation:**
 MRI Brain Tumor (Yes/No) images
-#**2. Preprocessing:**
+# **2. Preprocessing:**
 Image normalization
 Train/validation split
-#**3. Model Building:**
+# **3. Model Building:**
 ResNet50-based classifier
 Encoder-Decoder (autoencoder)
 MC/MI Filter Attribution Modules
-#**4. Filter Attribution & Manipulation:**
+# **4. Filter Attribution & Manipulation:**
 Extract Most Contributing (MC) and Most Influential (MI) filters
 Feature map manipulation in latent space
-#**5. Counterfactual Generation:**
+# **5. Counterfactual Generation:**
 Decode manipulated features to generate counterfactual images
-#**6. Evaluation & Visualization:**
+# **6. Evaluation & Visualization:**
 Prediction/Confidence shift
 SSIM, LPIPS, Recall Drop Test
 Bounding box visualizations
