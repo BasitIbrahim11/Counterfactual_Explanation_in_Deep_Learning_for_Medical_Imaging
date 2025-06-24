@@ -2,7 +2,7 @@
 # 🧠 **Faithful Counterfactual Visual Explanations for Medical Imaging**
 This project implements and evaluates faithful counterfactual visual explanations (FCVE) for deep learning models in medical image classification. The core idea is to provide interpretable, clinically-relevant explanations for model predictions by manipulating internal CNN filters and reconstructing counterfactual images.
 
-📁 **Project Pipeline**
+# 📁 **Project Pipeline**
 **1. Medical Dataset Preparation:**
 MRI Brain Tumor (Yes/No) images
 **2. Preprocessing:**
@@ -22,12 +22,12 @@ Prediction/Confidence shift
 SSIM, LPIPS, Recall Drop Test
 Bounding box visualizations
 
-📊 **Dataset Overview**
+# 📊 **Dataset Overview**
 Source: Brain Tumor MRI (public Kaggle dataset)
 Input: 2D grayscale MRI slices
 Task: Binary classification (Tumor / No Tumor)
 
-✅ **Key Results**
+# ✅ **Key Results**
 Achieved 99% classification accuracy on test set
 MC filter deactivation & MI filter amplification successfully flipped model decisions in counterfactuals
 Counterfactual images are visually realistic and faithful to internal model logic
