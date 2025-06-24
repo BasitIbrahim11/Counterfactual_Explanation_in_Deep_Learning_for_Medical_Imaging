@@ -3,7 +3,7 @@
 This project implements and evaluates faithful counterfactual visual explanations (FCVE) for deep learning models in medical image classification. The core idea is to provide interpretable, clinically-relevant explanations for model predictions by manipulating internal CNN filters and reconstructing counterfactual images.
 
 # 📁 **Project Pipeline**
-**1. Medical Dataset Preparation:**
+# **1. Medical Dataset Preparation:**
 MRI Brain Tumor (Yes/No) images
 # **2. Preprocessing:**
 Image normalization
