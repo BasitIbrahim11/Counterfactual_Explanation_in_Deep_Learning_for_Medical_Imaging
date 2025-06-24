@@ -47,7 +47,7 @@ Visualizations provide spatial interpretability for clinicians
 
 ## 🚀 Run the Notebook
 
-👉 [Open in Kaggle](https://www.kaggle.com/)  
+👉 [Open in Kaggle](https://www.kaggle.com/code/basitibrahim/evaluating-counterfactual-explanation)  
 → Upload: `Counterfactual Explanation for Medical Imaging`
 
 ---
