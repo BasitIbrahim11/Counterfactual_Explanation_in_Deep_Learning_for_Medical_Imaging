@@ -1,5 +1,5 @@
 
-🧠 **Faithful Counterfactual Visual Explanations for Medical Imaging**
+# 🧠 **Faithful Counterfactual Visual Explanations for Medical Imaging**
 This project implements and evaluates faithful counterfactual visual explanations (FCVE) for deep learning models in medical image classification. The core idea is to provide interpretable, clinically-relevant explanations for model predictions by manipulating internal CNN filters and reconstructing counterfactual images.
 
 📁 **Project Pipeline**
