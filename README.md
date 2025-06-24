@@ -24,8 +24,8 @@ Bounding box visualizations
 
 # 📊 **Dataset Overview**
 Source: Brain Tumor MRI (public Kaggle dataset)
-Input: 2D grayscale MRI slices
-Task: Binary classification (Tumor / No Tumor)
+# Input: 2D grayscale MRI slices
+# Task: Binary classification (Tumor / No Tumor)
 
 # ✅ **Key Results**
 Achieved 99% classification accuracy on test set
